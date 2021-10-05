@@ -6,8 +6,6 @@ You can read the original README file from [here][3].
 
 You can download the .hex files of this project **compiled for watchX** from [here][4].
 
-There is no original README file released by the developer.
-
 ## **License**
 
 This project has been released under the MIT License by it's developer.
